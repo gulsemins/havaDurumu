@@ -1,0 +1,46 @@
+body {
+    background-image: url("rain-2466803_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.box {
+    text-align: center;
+    background-color: rgba(35, 35, 35, 0.65);
+    color: #fafafa;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    width: 80%;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+#info{
+    text-align: center;
+    background-color: rgba(35, 35, 35, 0.65);
+    color: #fafafa;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    width: 80%;
+    margin: 50px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+
+}
+#search{
+    padding: 10px;
+  
+}
+#searchButton{ 
+    padding: 10px;
+    background-color: #491bb9;
+    color: #fafafa;
+
+}
